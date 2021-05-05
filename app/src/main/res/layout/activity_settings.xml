@@ -44,7 +44,7 @@
                 android:paddingRight="@dimen/activity_horizontal_margin"
                 android:paddingLeft="@dimen/activity_horizontal_margin"
                 android:min="1"
-                android:max="101"/>
+                android:max="100"/>
 
         <TextView
                 android:id="@+id/currentLimitTextView"
