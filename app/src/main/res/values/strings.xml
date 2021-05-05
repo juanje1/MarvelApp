@@ -1,0 +1,17 @@
+<resources>
+    <string name="appName">MarvelApp</string>
+    <string name="settingsMenu">Settings</string>
+    <string name="toolbarIndex">Marvel Characters |</string>
+    <string name="toolbarSettings">Marvel Characters | Settings</string>
+    <string name="iconDescription">Image of characters</string>
+    <string name="comicsNumber">Comics: %1$s</string>
+    <string name="storiesNumber">Stories: %1$s</string>
+    <string name="eventsNumber">Events: %1$s</string>
+    <string name="seriesNumber">Series: %1$s</string>
+    <string name="characterComics"><![CDATA[<u>Comics</u>]]></string>
+    <string name="characterStories"><![CDATA[<u>Stories</u>]]></string>
+    <string name="characterEvents"><![CDATA[<u>Events</u>]]></string>
+    <string name="characterSeries"><![CDATA[<u>Series</u>]]></string>
+    <string name="limitSettings">Limit of Characters</string>
+    <string name="orderSettings">Order of Characters</string>
+</resources>
